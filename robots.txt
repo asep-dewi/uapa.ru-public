@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.uapa.ru/sitemap.xml
+Host: https://www.uapa.ru.com/
+
+
